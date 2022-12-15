@@ -4,7 +4,7 @@
 		{
 			"type": "npm",
 			"script": "test",
-			"path": "pdmt_test",
+			"path": "pdmt_test", //pdmt_test1
 			"group": "test",
 			"problemMatcher": [],
 			"label": "npm: test - pdmt_test",
